@@ -1,0 +1,74 @@
+2018/09/17 18:07:06 [emerg] 1828#3256: unexpected "}" in F:\mypro\domain\domain\nginx-1.14.0/conf/nginx.conf:51
+2018/09/17 18:10:14 [emerg] 3256#7892: CreateFile() "F:/path/to/nginx.conf" failed (3: The system cannot find the path specified)
+2018/09/17 18:11:19 [emerg] 7660#6408: unexpected "}" in F:\mypro\domain\domain\nginx/conf/nginx.conf:51
+2018/09/17 18:12:02 [error] 6452#6544: *1 CreateFile() "F:\mypro\domain\domain\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/17 18:15:17 [error] 6452#6544: *12 CreateFile() "F:\mypro\domain\domain\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 172.31.11.221, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "172.31.11.221", referrer: "http://172.31.11.221/"
+2018/09/17 18:38:52 [notice] 1716#2440: signal process started
+2018/09/17 18:39:04 [notice] 5404#828: signal process started
+2018/09/17 18:39:04 [error] 5404#828: CreateFile() "F:\mypro\domain\domain\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/09/18 13:49:02 [notice] 7316#3052: signal process started
+2018/09/18 14:09:05 [notice] 8016#516: signal process started
+2018/09/18 14:09:11 [notice] 3952#3860: signal process started
+2018/09/18 14:09:11 [error] 3952#3860: CreateFile() "F:\mypro\domain\domain\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/09/18 14:22:02 [notice] 1108#5460: signal process started
+2018/09/18 14:35:09 [notice] 7372#7608: signal process started
+2018/09/18 14:36:52 [notice] 6624#944: signal process started
+2018/09/18 15:05:51 [notice] 2108#7636: signal process started
+2018/09/18 15:57:00 [notice] 6124#1676: signal process started
+2018/09/18 16:01:33 [notice] 4136#3556: signal process started
+2018/09/18 16:02:27 [notice] 7248#5336: signal process started
+2018/09/18 18:19:21 [error] 1368#1512: *2 CreateFile() "F:\mypro\domain\domain\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/18 18:40:02 [notice] 5956#4288: signal process started
+2018/09/18 18:48:05 [notice] 5604#5816: signal process started
+2018/09/18 18:48:06 [notice] 2984#5184: signal process started
+2018/09/18 18:48:07 [notice] 5412#3476: signal process started
+2018/09/18 18:48:49 [notice] 5560#4884: signal process started
+2018/09/18 18:53:07 [notice] 6816#6820: signal process started
+2018/09/18 18:54:01 [notice] 7084#7088: signal process started
+2018/09/18 19:00:52 [notice] 7064#7048: signal process started
+2018/09/18 19:04:55 [notice] 2320#3348: signal process started
+2018/09/18 19:06:05 [notice] 6908#5828: signal process started
+2018/09/18 19:07:22 [notice] 6972#6372: signal process started
+2018/09/19 10:07:00 [notice] 4512#3828: signal process started
+2018/09/19 10:07:07 [notice] 7000#4800: signal process started
+2018/09/19 10:14:15 [error] 6212#4708: *73 CreateFile() "F:\mypro\domain\domain\nginx/html/q/1010000008132473/a-1020000010075516" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /q/1010000008132473/a-1020000010075516 HTTP/1.1", host: "mnldl.com.segmentfault.com", referrer: "https://www.baidu.com/link?url=Yi85dmScDRbiCE2cz4NX9QHAhxBHXj6at_fMNgieAapo4daeN_ljURfQ0bEusEb746rq7FYr_FdjWhWaV7UtytslWa_ogrw33KajSDyUVlTGGNGS15hOHdeRIb2zhb96&wd=&eqid=d0f8bdbb00015370000000045ba1b0da"
+2018/09/19 10:14:16 [error] 6212#4708: *73 CreateFile() "F:\mypro\domain\domain\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "mnldl.com.segmentfault.com", referrer: "http://mnldl.com.segmentfault.com/q/1010000008132473/a-1020000010075516"
+2018/09/19 10:17:56 [notice] 4864#6560: signal process started
+2018/09/19 10:17:59 [notice] 6984#4960: signal process started
+2018/09/19 10:17:59 [error] 6984#4960: CreateFile() "F:\mypro\domain\domain\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/09/19 10:18:24 [notice] 5512#6496: signal process started
+2018/09/19 10:25:16 [notice] 5316#6012: signal process started
+2018/09/19 10:44:51 [notice] 6560#6520: signal process started
+2018/09/19 10:45:31 [notice] 6292#4816: signal process started
+2018/09/19 10:46:12 [notice] 5616#4364: signal process started
+2018/09/19 10:46:26 [notice] 4380#3628: signal process started
+2018/09/19 10:54:34 [emerg] 7092#4904: host not found in upstream "app1.jollychic.com" in F:\mypro\domain\domain\nginx/conf/nginx.conf:58
+2018/09/19 10:55:01 [notice] 6764#3376: signal process started
+2018/09/19 11:57:20 [notice] 6180#5916: signal process started
+2018/09/19 13:35:15 [error] 5608#2092: *2 CreateFile() "F:\mypro\domain\domain\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 13:56:40 [warn] 4876#4900: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 13:56:40 [notice] 4876#4900: signal process started
+2018/09/19 13:56:40 [warn] 996#3424: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 13:57:14 [warn] 4668#4576: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 13:57:14 [notice] 4668#4576: signal process started
+2018/09/19 13:57:14 [warn] 1956#5104: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 14:00:09 [warn] 5504#4652: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 14:00:09 [notice] 5504#4652: signal process started
+2018/09/19 14:00:10 [warn] 5476#5528: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 14:00:19 [error] 5476#3764: *7 CreateFile() "F:\mypro\domain\domain\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 172.31.11.221, server: http://172.31.11.221, request: "GET /favicon.ico HTTP/1.1", host: "172.31.11.221", referrer: "http://172.31.11.221/"
+2018/09/19 14:02:42 [warn] 4996#6128: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 14:02:42 [notice] 4996#6128: signal process started
+2018/09/19 14:02:42 [warn] 4892#5940: server name "http://172.31.11.221" has suspicious symbols in F:\mypro\domain\domain\nginx/conf/nginx.conf:37
+2018/09/19 14:11:21 [notice] 1532#3708: signal process started
+2018/09/19 14:14:46 [notice] 6804#6808: signal process started
+2018/09/19 14:19:45 [notice] 6312#6296: signal process started
+2018/09/19 14:20:26 [notice] 6940#1744: signal process started
+2018/09/19 14:23:54 [notice] 4608#6472: signal process started
+2018/09/19 14:28:35 [error] 5956#5160: *75 CreateFile() "F:\mypro\domain\domain\nginx/html/undefinedapi/0/app2/goods/homeAdInfo.do" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /undefinedapi/0/app2/goods/homeAdInfo.do HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 14:28:35 [error] 5956#5160: *75 CreateFile() "F:\mypro\domain\domain\nginx/html/undefinedvirtualGoods/getGoodsDetail.do" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /undefinedvirtualGoods/getGoodsDetail.do HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 14:28:41 [error] 5956#5160: *74 CreateFile() "F:\mypro\domain\domain\nginx/html/undefinedapi/0/app2/goods/homeAdInfo.do" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /undefinedapi/0/app2/goods/homeAdInfo.do HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 14:28:41 [error] 5956#5160: *73 CreateFile() "F:\mypro\domain\domain\nginx/html/undefinedvirtualGoods/getGoodsDetail.do" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /undefinedvirtualGoods/getGoodsDetail.do HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 14:28:42 [error] 5956#5160: *75 CreateFile() "F:\mypro\domain\domain\nginx/html/undefinedapi/0/app2/goods/homeAdInfo.do" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /undefinedapi/0/app2/goods/homeAdInfo.do HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 14:28:42 [error] 5956#5160: *76 CreateFile() "F:\mypro\domain\domain\nginx/html/undefinedvirtualGoods/getGoodsDetail.do" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /undefinedvirtualGoods/getGoodsDetail.do HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/19 14:37:09 [notice] 6060#3012: signal process started
+2018/09/19 14:37:37 [notice] 6728#6156: signal process started
