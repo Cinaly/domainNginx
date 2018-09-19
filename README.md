@@ -1,4 +1,4 @@
-#### 此项目是基于vue-cli 脚手架
+#### 此项目是基于vue-cli 脚手架 使用nginx反向代理 进行跨域
 
 需要修改的文件 
 - config/dev.env.js
