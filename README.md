@@ -1,30 +1,13 @@
-# my-domain-pro
+#### 此项目是基于vue-cli 脚手架
 
-> A Vue.js project
+需要修改的文件 
+- config/dev.env.js
+- config/prod.env.js
+- config/index.js
+- nginx/conf/nginx.conf
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##### 1.将项目打包   运行命令 npm run build
+##### 2.将打包后的dist目录下的文件放到nginx文件夹下的html文件夹下
+##### 3.进入nginx文件夹下,运行命令 start nginx 
+##### 4.浏览器输入 http://localhost:8080/#/xxxxx  xxxxx表示路由
+##### 5.修改nginx.conf文件后需要重新运行 nginx -s reload
